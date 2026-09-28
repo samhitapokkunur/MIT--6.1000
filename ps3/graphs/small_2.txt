@@ -1,0 +1,17 @@
+Zorn, Fenra
+Tolen, Fenra
+Sorka, Tolen
+Blyne, Orvek
+Orvek, Marn
+Orvek, Blint
+Marn, Blint
+Tolen, Blint
+Fenra, Blint
+Trela, Blint
+Blyne, Sorka
+Sorka, Orvek
+Blyne, Tolen
+Blyne, Blint
+Fenra, Trela
+Marn, Trela
+Zorn, Trela

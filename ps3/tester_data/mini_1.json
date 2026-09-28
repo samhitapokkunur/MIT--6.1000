@@ -1,0 +1,100 @@
+{
+    "graph": {
+        "Xyra": [
+            "Eldo",
+            "Pynor",
+            "Blint"
+        ],
+        "Eldo": [
+            "Xyra",
+            "Blint"
+        ],
+        "Pynor": [
+            "Xyra",
+            "Blint",
+            "Ravik"
+        ],
+        "Ravik": [
+            "Blint",
+            "Pynor"
+        ],
+        "Blint": [
+            "Ravik",
+            "Pynor",
+            "Eldo",
+            "Xyra"
+        ]
+    },
+    "all_town_combos": [
+        [
+            "Xyra",
+            "Eldo",
+            "Pynor",
+            "Blint"
+        ],
+        [
+            "Xyra",
+            "Eldo",
+            "Blint"
+        ],
+        [
+            "Pynor",
+            "Ravik"
+        ],
+        [
+            "Ravik"
+        ]
+    ],
+    "all_districts": [
+        [
+            "Xyra",
+            "Eldo",
+            "Pynor",
+            "Blint"
+        ],
+        [
+            "Xyra",
+            "Eldo",
+            "Blint"
+        ],
+        [
+            "Pynor",
+            "Ravik"
+        ],
+        [
+            "Ravik"
+        ]
+    ],
+    "all_partitions": [
+        [
+            [
+                "Xyra",
+                "Eldo",
+                "Blint"
+            ],
+            [
+                "Pynor",
+                "Ravik"
+            ]
+        ],
+        [
+            [
+                "Xyra",
+                "Eldo",
+                "Pynor",
+                "Blint"
+            ],
+            [
+                "Ravik"
+            ]
+        ]
+    ],
+    "outcomes_data": {
+        "proportion_party1_total_votes": 0.58,
+        "num_possible_districts": 4,
+        "num_partitions": 2,
+        "partition_party1_wins": 2,
+        "partition_party2_wins": 0,
+        "partition_ties": 0
+    }
+}

@@ -1,0 +1,7 @@
+Xyra, Eldo
+Pynor, Xyra
+Ravik, Blint
+Pynor, Blint
+Blint, Eldo
+Ravik, Pynor
+Blint, Xyra
